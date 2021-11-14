@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Chen.
+- 👋 Hi, this is Ryan Chen.
 - 👀 I’m interested in Data Enginnering and Big Data Solution.
 - 📫 Email: kh87313@gmail.com
 
