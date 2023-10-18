@@ -1,4 +1,4 @@
-- 👋 Hi, this is Yu-Lin Chen (Ryan).
+- 👋 Hi, this is Yu-Lin Chen (Ryan), located in Taiwan.
 - 👀 I’m interested in Data Enginnering and Big Data Solution.
 - 📫 Email: kh87313@gmail.com
 
