@@ -1,5 +1,5 @@
 - 👋 Hi, this is Yu-Lin Chen (Ryan), located in Taiwan.
-- 👀 I’m interested in Data Enginnering and Big Data Solution.
+- 👀 I’m interested in Data Engineering and Big Data Solution.
 - 📫 Email: kh87313@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/chenyulin0719
 
